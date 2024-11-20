@@ -97,7 +97,7 @@ while running == True:
                          print("Этой буквы нет в загаданном слове.\n")
     if option == 2:
         print("Ваш счёт:", score_points)
- 
+        print("Вы умница! Так держать") 
     if option == 3:
         print("До новых встреч!")
         running=False
